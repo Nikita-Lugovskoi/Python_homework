@@ -106,7 +106,6 @@ class ExtendedLinkedList(LinkedList):
         else:
             return self.contains_from_tail(data)
 
-# Примеры использования
 if __name__ == "__main__":
     # Создаем экземпляр расширенного двусвязного списка
     extended_list = ExtendedLinkedList()
