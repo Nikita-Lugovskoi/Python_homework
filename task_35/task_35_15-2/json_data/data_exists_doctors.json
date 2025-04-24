@@ -1,0 +1,32 @@
+[
+    {
+        "Surname": "Smith",
+        "Name": "John",
+        "Salary": 50000.0,
+        "Premium": 5000.0
+    },
+    {
+        "Surname": "Johnson",
+        "Name": "Emily",
+        "Salary": 60000.0,
+        "Premium": 6000.0
+    },
+    {
+        "Surname": "Brown ",
+        "Name": "Michael",
+        "Salary": 55000.0,
+        "Premium": 5500.0
+    },
+    {
+        "Surname": "Taylor",
+        "Name": "Sarah",
+        "Salary": 70000.0,
+        "Premium": 7000.0
+    },
+    {
+        "Surname": "Wilson",
+        "Name": "David",
+        "Salary": 60000.0,
+        "Premium": 6000.0
+    }
+]

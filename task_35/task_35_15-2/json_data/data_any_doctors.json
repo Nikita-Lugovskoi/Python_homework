@@ -1,0 +1,14 @@
+[
+    {
+        "Surname": "Johnson",
+        "Name": "Emily",
+        "Salary": 60000.0,
+        "Premium": 6000.0
+    },
+    {
+        "Surname": "Wilson",
+        "Name": "David",
+        "Salary": 60000.0,
+        "Premium": 6000.0
+    }
+]

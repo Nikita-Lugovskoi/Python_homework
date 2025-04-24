@@ -1,0 +1,22 @@
+[
+    {
+        "Result": "BAD",
+        "Number of Doctors": 1
+    },
+    {
+        "Result": "NORM",
+        "Number of Doctors": 0
+    },
+    {
+        "Result": "BETTER",
+        "Number of Doctors": 2
+    },
+    {
+        "Result": "GOOD",
+        "Number of Doctors": 2
+    },
+    {
+        "Result": "BEST",
+        "Number of Doctors": 1
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Surname": "Johnson",
+        "Name": "Emily",
+        "Ward": "Maternity",
+        "Departament": "Emergency"
+    },
+    {
+        "Surname": "Smith",
+        "Name": "John",
+        "Ward": "ICU",
+        "Departament": "Surgery"
+    },
+    {
+        "Surname": "Brown ",
+        "Name": "Michael",
+        "Ward": "Recovery",
+        "Departament": "Oncology"
+    },
+    {
+        "Surname": "Brown ",
+        "Name": "Michael",
+        "Ward": "Surgical",
+        "Departament": "Pediatrics"
+    },
+    {
+        "Surname": "Taylor",
+        "Name": "Sarah",
+        "Ward": "Pediatric",
+        "Departament": "Radiology"
+    },
+    {
+        "Surname": "Wilson",
+        "Name": "David",
+        "Ward": "Maternity",
+        "Departament": "Emergency"
+    }
+]
